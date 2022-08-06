@@ -7,4 +7,3 @@ title: Resume
 active: true
 author: admin
 ---
-Hello, I'm Zixin Liu (@twocanis). PhD candidate at the Institute of Subtropical Agriculture, Chinese Academy of Sciences.
