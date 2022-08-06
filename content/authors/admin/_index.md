@@ -1,6 +1,7 @@
 ---
 title: Zixin Liu
 role: PhD candidate
+avatar_filename: 头像.jpg
 bio: My research interests include Ruminant nutrition, dairy cow nutrition, milk
   quality and omics technologies.
 interests:
