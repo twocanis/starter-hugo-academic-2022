@@ -12,13 +12,13 @@ social:
     icon_pack: fas
     link: https://s2.loli.net/2022/06/07/GVXQSHOFYvJxe8s.jpg
   - icon: researchgate
-    icon_pack: fas
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Liu-Zixin
   - icon: github
     icon_pack: fab
     link: https://github.com/twocanis
   - icon: blog
-    icon_pack: fab
+    icon_pack: ai
     link: https://twocanis.github.io/
 organizations:
   - name: Chinese Academy of Sciences
