@@ -19,8 +19,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/twocanis
-  - icon: envelope
-    icon_pack: fas
+  - icon: cv
+    icon_pack: ai
     link: https://twocanis.github.io/
 organizations:
   - name: Chinese Academy of Sciences
