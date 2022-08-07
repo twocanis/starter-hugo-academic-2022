@@ -5,9 +5,10 @@ avatar_filename: avatar.jpg
 bio: My research interests include Ruminant nutrition, dairy cow nutrition, milk
   quality and omics technologies.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Application of plant extracts in feed additives
+  - Mechanism of plant-derived components regulating milk fat synthesis in
+    mammary epithelial cells
+  - Application of multi-fluid metabolomics in dairy cattle
 social:
   - icon: envelope
     icon_pack: fas
