@@ -33,8 +33,8 @@ education:
     - course: Master in Preventive Veterinary Medicine, 2018-2020
       institution: China Agricultural University
       year: ""
-    - course: BSc in Veterinary
-      institution: Northeast Forestry University, 2014-2018
+    - course: BSc in Veterinary, 2014-2018
+      institution: Northeast Forestry University
       year: ""
 email: ""
 superuser: true
