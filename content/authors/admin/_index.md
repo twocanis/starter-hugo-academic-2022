@@ -42,13 +42,11 @@ highlight_name: true
 ---
 Hello, my name is Liu Zixin (@twocanis). I graduated from China Agricultural University of Veterinary Medicine with a master's degree in preventive veterinary medicine. 
 
-I am currently studying at the Institute of Subtropical Agriculture, Chinese Academy of Sciences as a Ph.D. student, doing research on ruminant nutrition. The main research interests and directions mainly include: 
+I am currently studying at the Institute of Subtropical Agriculture, Chinese Academy of Sciences as a Ph.D. candidate, doing research on ruminant nutrition. The main research interests and directions mainly include: 
 
 1. Dairy cow nutrition regulation research
 2. Milk quality improvement and mechanism research
 3. Bioinformatics multi-omics research
-
-
 
 Find my detail information in CV.
 
