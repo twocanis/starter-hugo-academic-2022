@@ -10,8 +10,8 @@ interests:
     mammary epithelial cells
   - Application of multi-fluid metabolomics in dairy cattle
 social:
-  - icon: envelope
-    icon_pack: fas
+  - icon: weixin
+    icon_pack: fab
     link: https://s2.loli.net/2022/06/07/GVXQSHOFYvJxe8s.jpg
   - icon: researchgate
     icon_pack: ai
@@ -19,8 +19,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/twocanis
-  - icon: blog
-    icon_pack: ai
+  - icon: envelope
+    icon_pack: fas
     link: https://twocanis.github.io/
 organizations:
   - name: Chinese Academy of Sciences
